@@ -10,7 +10,7 @@
   
   ## 👀 About Me
   #### :raising_hand: I am a college student from south korea<br/>
-  #### :fire: I aim to become a FullStack developer.<br/>
+  #### :fire: My goal is to become a FullStack developer.<br/>
   #### :mortar_board: Computer Engineering Major, Daegu Catholic University (DCU)
   <br/>
   <br/>
