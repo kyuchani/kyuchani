@@ -85,10 +85,10 @@
     📬 Connect with Me
   </h2>
   <p>
-    <a href="mailto:[본인 이메일 주소]">
+    <a href="mailto:rbcks5193@icloud.com">
       <img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="[기술 블로그 URL (있다면 강력 추천)]">
+    <a href="https://kyuchani.github.io">
       <img src="https://img.shields.io/badge/Blog-1e90ff?style=for-the-badge&logo=blogger&logoColor=white"/>
     </a>
   </p>
