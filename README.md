@@ -50,19 +50,7 @@
 
 <br/>
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyuchani&show_icons=true&theme=dark&hide_border=true" alt="kyuchani's GitHub stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyuchani&layout=compact&theme=dark&hide_border=true" alt="kyuchani's Top Languages" />
-  
-  <br/>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=kyuchani&theme=gitdimmed&no-frame=true&margin-w=15&margin-h=15" alt="kyuchani's GitHub Trophies" />
-</div>
-
-<br/>
 
 ## 📬 Connect with Me
 
