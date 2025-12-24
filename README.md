@@ -52,7 +52,18 @@
 ## 🧩 Algorithm Stats
 
 <div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rbcks5193" width="350" />
+  <table>
+    <tr>
+      <td align="center"><strong>Solved.ac & Baekjoon</strong></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://solved.ac/kyuchani">
+          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyuchani" width="350" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
