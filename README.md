@@ -38,9 +38,11 @@
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
       </td>
-        <div align="center">
-          <img src="http://mazandi.herokuapp.com/api?handle=kyuchani&theme=warm" width="100%" />
-        </div>
+        ## 🧩 Algorithm Stats
+
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rbcks5193" width="350" />
+</div>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
