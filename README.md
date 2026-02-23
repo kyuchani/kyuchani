@@ -2,14 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Kyuchani%20%7C%20%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=38" />
 </div>
 
-## 🚀 About Me
-
-안녕하세요! **문제를 정의하고 기술로 해결**하는 개발자 **Park KyuChan** 입니다.
-
-* 🌱 **지속가능하고 유지보수 가능한 코드**를 작성하려 노력합니다.
-* 💻 **개발**에 대한 깊은 관심을 가지고 있습니다.
-* 💡 현재 **AWS**와 **백엔드(CRUD)** 에 대해 깊이 파고들고 있습니다.
-
 <br/>
 
 ## 🛠️ My Tech Ecosystem
