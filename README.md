@@ -51,7 +51,7 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://solved.ac/kyuchani">
+        <a href="https://solved.ac/profile/kyuchani">
           <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyuchani&v=1" width="350" />
         </a>
       </td>
