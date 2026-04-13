@@ -44,20 +44,7 @@
 
 ## 🧩 Algorithm Stats
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><strong>Solved.ac & Baekjoon</strong></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://solved.ac/kyuchani">
-          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyuchani&v=2" width="350" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 <br/>
 
